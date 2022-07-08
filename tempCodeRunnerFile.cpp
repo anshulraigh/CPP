@@ -1,0 +1,2 @@
+cout<< *iter;
+    iter++;
